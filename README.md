@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @devblackie
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on any projects related to Software Development Projects (ReactJs, Angular and Ruby)
+- 💞️ I’m looking to collaborate on any projects related to Software Development Projects (ReactJs,NextJs, Lavarel, Angular , Ruby and Django)
 - 📫 How to reach me: newtieblackie@gmail.com
-- zap Fun fact: "When the code work dont change"
+- zap Fun fact: "When the code works dont change"
 
 <!---
 devblackie/devblackie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
